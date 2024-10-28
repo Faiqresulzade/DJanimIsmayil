@@ -1,0 +1,14 @@
+C:\Users\Honor\source\repos\CanimIsmayil\CanimIsmayil\bin\Debug\net8.0\CanimIsmayil.exe
+C:\Users\Honor\source\repos\CanimIsmayil\CanimIsmayil\bin\Debug\net8.0\CanimIsmayil.deps.json
+C:\Users\Honor\source\repos\CanimIsmayil\CanimIsmayil\bin\Debug\net8.0\CanimIsmayil.runtimeconfig.json
+C:\Users\Honor\source\repos\CanimIsmayil\CanimIsmayil\bin\Debug\net8.0\CanimIsmayil.dll
+C:\Users\Honor\source\repos\CanimIsmayil\CanimIsmayil\bin\Debug\net8.0\CanimIsmayil.pdb
+C:\Users\Honor\source\repos\CanimIsmayil\CanimIsmayil\obj\Debug\net8.0\CanimIsmayil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor\source\repos\CanimIsmayil\CanimIsmayil\obj\Debug\net8.0\CanimIsmayil.AssemblyInfoInputs.cache
+C:\Users\Honor\source\repos\CanimIsmayil\CanimIsmayil\obj\Debug\net8.0\CanimIsmayil.AssemblyInfo.cs
+C:\Users\Honor\source\repos\CanimIsmayil\CanimIsmayil\obj\Debug\net8.0\CanimIsmayil.csproj.CoreCompileInputs.cache
+C:\Users\Honor\source\repos\CanimIsmayil\CanimIsmayil\obj\Debug\net8.0\CanimIsmayil.dll
+C:\Users\Honor\source\repos\CanimIsmayil\CanimIsmayil\obj\Debug\net8.0\refint\CanimIsmayil.dll
+C:\Users\Honor\source\repos\CanimIsmayil\CanimIsmayil\obj\Debug\net8.0\CanimIsmayil.pdb
+C:\Users\Honor\source\repos\CanimIsmayil\CanimIsmayil\obj\Debug\net8.0\CanimIsmayil.genruntimeconfig.cache
+C:\Users\Honor\source\repos\CanimIsmayil\CanimIsmayil\obj\Debug\net8.0\ref\CanimIsmayil.dll
